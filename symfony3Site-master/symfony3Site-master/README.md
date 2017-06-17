@@ -20,7 +20,7 @@ pseudo        mdp
 Labrie_2007 :Labrie_Arienne
 Lamoureux_2008 : Lamoureux_Somerville
 
-(php bin/console server:start)
+(php bin/console server:start) (recommandé)
 (php bin/console doctrine:schema:update --force) eventuellement
 
 
@@ -56,4 +56,5 @@ les modules
 -forum de discussion:Le forum est regroupé par themes ,dans chaque themes on peut soit participer a une discussion ,soit en creer une nouvelle.
 
 -mini chat:On peut creer une conversation et ajouter autant de personnes voulus.On peut supprimer une conversation a laquel on participe.
+
 
